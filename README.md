@@ -1,6 +1,6 @@
 Olá, meu nome é <strong>Leonardo</strong>
 
-> Programador Front-end
+> Desenvolvedor Front-end
 
 Atualmente estou estudando programação web.
 
