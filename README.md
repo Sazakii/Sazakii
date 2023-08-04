@@ -2,7 +2,7 @@ Olá, meu nome é <strong>Leonardo</strong>
 
 > Desenvolvedor Front-end
 
-Atualmente estou estudando programação web.
+Estudando.
 
 ----
 
